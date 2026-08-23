@@ -69,11 +69,6 @@ Computer vision pipeline from raw garment detection to styled recommendations.
 ## 📈 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shresti00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresti00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresti00&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" />
 </p>
 
