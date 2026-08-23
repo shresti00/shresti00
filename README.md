@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Shresti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20AI%2FML%20Systems%20%26%20Full-Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Shresti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%2FML%20Systems%20and%20Full-Stack&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ Full-stack real-time AR app pairing on-device object detection with an LLM tutor
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 👗 AI Personal Stylist
 **[ai-stylist-app](https://github.com/shresti00/ai-stylist-app)**
@@ -80,8 +80,9 @@ Computer vision pipeline from raw garment detection to styled recommendations.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:7C3AED&height=3" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shresti-subahar-193158338/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shrestisubahar@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" />
+<!-- footer banner uses no text param, so no encoding issue -->
